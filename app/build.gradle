@@ -19,7 +19,9 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner" // 테스트환경
     }
 
-
+    lintOptions{
+        abortOnError false
+    }
     //store key생성
     signingConfigs {
         release {
