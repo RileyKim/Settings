@@ -1,5 +1,4 @@
 # Android Basic Settings
-----------
 
 * Build Tools : Gradle
 * Code Inspector : Lint
